@@ -8,4 +8,7 @@ Version 1.1.0: Converted functions to class functions with prototypes, made memb
 
 Version 1.1.1: Added friend class and aggregation from previous structures.
 
-Version 2.0.0:
+Version 2.0.0: Added static int gameCounter to count number of games played accessible from any instance of Player.
+               Added accessor getGameCounter to return number of games.
+               Implemented inline overloaded constructor to "empty" Player test.
+               Created new Player test with two arguments in test to show off overloaded constructor.
