@@ -15,4 +15,4 @@ Version 3.0.0: Implemented "Royal Chess" by appending random courtly titles and 
                Added copy constructor and destructor in the form of an Easter Egg after 5 completed games.
                Implemented exception handling throughout.
                
-Version 3.0.0: More exception handling
+Version 3.0.0: More exception handling added.
