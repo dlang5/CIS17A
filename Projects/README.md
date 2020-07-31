@@ -23,7 +23,7 @@ Version 3.1.0: Included more statistics in the game via a template that outputs 
 Version 3.2.0: Added even more royal flair. Split classes into more .h files for easy UML charting. Implemented unique
                messages based on Rand for loser and tie games. Converted Easter Egg class to use protected variable.
                
-Version 3.2.0: Cleaned up main by adding a few functions.
+Version 3.2.1: Cleaned up main by adding a few functions.
 
 Version 3.3.0: Brought functions from "Player.h" back to main. Added a prototype virtual void function in Player class.
                Added a protoype derived Player. Implemented an overloaded "==" operator to compare player names. More
