@@ -20,9 +20,3 @@ Version 3.0.1: More exception handling added.
 Version 3.1.0: Included more statistics in the game via a template that outputs the highest number of wins.
                Included more royal flair, as well as code to say "Good Game" or "Good Games" depending on matches ran.
                
-Version 3.2.0: Added even more royal flair. Split classes into more .h files for easy UML charting. Implemented unique
-               messages based on Rand for loser and tie games. Converted Easter Egg class to use protected variable.
-               
-Version 3.2.1: Cleaned up main by adding a few functions.
-
-               
