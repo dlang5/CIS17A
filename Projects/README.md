@@ -16,3 +16,6 @@ Version 3.0.0: Implemented "Royal Chess" by appending random courtly titles and 
                Implemented exception handling throughout.
                
 Version 3.0.1: More exception handling added.
+
+Version 3.1.0: Included more statistics in the game via a template that outputs the highest number of wins.
+               Included more royal flair, as well as code to say "Good Game" or "Good Games" depending on matches ran.
