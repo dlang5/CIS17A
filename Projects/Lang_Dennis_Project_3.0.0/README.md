@@ -6,6 +6,11 @@ Version 1.0.0: Completed Midterm Project with headers and class structures imple
 
 Version 1.1.0: Converted functions to class functions with prototypes, made member variables private, bulk of code moved to "Player.h"
 
-Version 1.1.1: Added friend class and aggregation from previous structures.
-
-Version 2.0.0:
+Version 2.0.0: Added static int gameCounter to count number of games played accessible from any instance of Player.
+               Added accessor getGameCounter to return number of games.
+               Implemented inline overloaded constructor to "empty" Player test.
+               Created new Player test with two arguments in test to show off overloaded constructor.
+              
+Version 3.0.0: Implemented "Royal Chess" by appending random courtly titles and adjectives given gender.
+               Added copy constructor and destructor in the form of an Easter Egg after 5 completed games.
+               Implemented exception handling throughout.
