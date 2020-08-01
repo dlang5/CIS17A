@@ -10,9 +10,7 @@ Version 1.1.1: Added friend class and aggregation from previous structures.
 
 Version 2.0.0: Added static int gameCounter to count number of games played accessible from any instance of Player. Added accessor getGameCounter to return number of games. Implemented inline overloaded constructor to "empty" Player test. Created new Player test with two arguments in test to show off overloaded constructor.
 
-Version 3.0.0: Implemented "Royal Connect 4" by appending random courtly titles and adjectives given gender.
-               Added copy constructor and destructor in the form of an Easter Egg after 5 completed games.
-               Implemented exception handling throughout.
+Version 3.0.0: Implemented "Royal Connect 4" by appending random courtly titles and adjectives given gender. Added copy constructor and destructor in the form of an Easter Egg after 5 completed games. Implemented exception handling throughout.
 
 Version 3.0.1: More exception handling added.
 
