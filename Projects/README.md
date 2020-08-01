@@ -32,6 +32,11 @@ Version 3.3.0: Brought functions from "Player.h" back to main. Added a prototype
 Version 4.0.0: Added derived class LoserPlayer for enhanced easter egg using polymorphic virtual function from Player.
                Easter egg counter better implementation. Removed newFile.h. "Golden" name tag added for players that
                successfully unlock the Easter egg (using the overloaded + operator to append the string).
+             
+Version 4.1.0: Added three more overloaded operators, > == &&. Included formatting and more comments.
+
+Version 4.2.0: Final Release. Fixed a bug adding a random gamepiece on the board (redundant variables).
+               Added more formatting and comments
                
                
   
