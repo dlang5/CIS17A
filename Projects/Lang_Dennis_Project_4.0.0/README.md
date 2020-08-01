@@ -24,4 +24,4 @@ Version 3.2.1: Cleaned up main by adding a few functions.
 
 Version 3.3.0: Brought functions from "Player.h" back to main. Added a prototype virtual void function in Player class. Added a protoype derived Player. Implemented an overloaded "==" operator to compare player names. More functions added to main with prototypes.
 
-Version 4.0.0: Added derived class LoserPlayer for enhanced easter egg using polymorphic virtual function from Player. Easter egg counter better implementation. Removed newFile.h. "Golden" name tag added for players that successfully unlock the Easter egg (using the overloaded + operator to append the string).
+Version 4.0.0: Added derived class LoserPlayer for enhanced Easter egg using polymorphic virtual function from Player. Easter egg counter better implementation. Removed newFile.h. "Golden" name tag added for players that successfully unlock the Easter egg (using the overloaded + operator to append the string).
